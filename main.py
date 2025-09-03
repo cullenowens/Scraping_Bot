@@ -1,1 +1,1 @@
-#connecting to Github
+#connecting to Github and making changes
